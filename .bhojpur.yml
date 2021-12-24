@@ -1,0 +1,4 @@
+image: ap.gcr.io/bhojpur/devenv:bp-bump-helm.12
+ports:
+# Developer's Theia
+  - port: 13444
